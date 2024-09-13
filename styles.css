@@ -809,7 +809,7 @@ footer .wave#wave4{
         margin: 10px 0;
     }
     .slideshow-text h1 {
-        font-size: 12px;
+        font-size: 14px;
       }
       .slideshow-text p {
         font-size: 14px;
@@ -818,5 +818,15 @@ footer .wave#wave4{
         padding: 15px 10px;
         font-size: 14px;
       }
+	.intl-text{
+        font-size: 20px;
+    }
+    .logo-text{
+        font-size: 11px;
+    }
+    .slideshow-image {
+        background-repeat: no-repeat;
+        background-size: 400px 800px;
+    }
 
 }

@@ -280,4 +280,10 @@ body {
     .events-container p {
         font-size: 16px;
     }
+	.intl-text{
+        font-size: 20px;
+    }
+    .logo-text{
+        font-size: 9px;
+    }
 }

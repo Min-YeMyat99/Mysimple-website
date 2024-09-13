@@ -809,20 +809,20 @@ footer .wave#wave4{
         margin: 10px 0;
     }
     .slideshow-text h1 {
-        font-size: 14px;
+        font-size: 11px;
       }
       .slideshow-text p {
-        font-size: 14px;
+        font-size: 11px;
       }
       .slideshow-button {
         padding: 15px 10px;
         font-size: 14px;
       }
-	.intl-text{
+      .intl-text{
         font-size: 20px;
     }
     .logo-text{
-        font-size: 11px;
+        font-size: 9px;
     }
     .slideshow-image {
         background-repeat: no-repeat;

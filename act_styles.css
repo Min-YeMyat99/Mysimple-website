@@ -313,5 +313,12 @@ body {
     .menu li {
         margin: 10px 0;
     }
+	.intl-text{
+        font-size: 20px;
+    }
+    .logo-text{
+        font-size: 11px;
+    }
+
 
 }
